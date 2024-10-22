@@ -1,0 +1,14 @@
+C:\Users\joaom\OneDrive\Área de Trabalho\CeOPP\TipoGenerico\TipoGenerico\bin\Debug\net7.0\TipoGenerico.exe
+C:\Users\joaom\OneDrive\Área de Trabalho\CeOPP\TipoGenerico\TipoGenerico\bin\Debug\net7.0\TipoGenerico.deps.json
+C:\Users\joaom\OneDrive\Área de Trabalho\CeOPP\TipoGenerico\TipoGenerico\bin\Debug\net7.0\TipoGenerico.runtimeconfig.json
+C:\Users\joaom\OneDrive\Área de Trabalho\CeOPP\TipoGenerico\TipoGenerico\bin\Debug\net7.0\TipoGenerico.dll
+C:\Users\joaom\OneDrive\Área de Trabalho\CeOPP\TipoGenerico\TipoGenerico\bin\Debug\net7.0\TipoGenerico.pdb
+C:\Users\joaom\OneDrive\Área de Trabalho\CeOPP\TipoGenerico\TipoGenerico\obj\Debug\net7.0\TipoGenerico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaom\OneDrive\Área de Trabalho\CeOPP\TipoGenerico\TipoGenerico\obj\Debug\net7.0\TipoGenerico.AssemblyInfoInputs.cache
+C:\Users\joaom\OneDrive\Área de Trabalho\CeOPP\TipoGenerico\TipoGenerico\obj\Debug\net7.0\TipoGenerico.AssemblyInfo.cs
+C:\Users\joaom\OneDrive\Área de Trabalho\CeOPP\TipoGenerico\TipoGenerico\obj\Debug\net7.0\TipoGenerico.csproj.CoreCompileInputs.cache
+C:\Users\joaom\OneDrive\Área de Trabalho\CeOPP\TipoGenerico\TipoGenerico\obj\Debug\net7.0\TipoGenerico.dll
+C:\Users\joaom\OneDrive\Área de Trabalho\CeOPP\TipoGenerico\TipoGenerico\obj\Debug\net7.0\refint\TipoGenerico.dll
+C:\Users\joaom\OneDrive\Área de Trabalho\CeOPP\TipoGenerico\TipoGenerico\obj\Debug\net7.0\TipoGenerico.pdb
+C:\Users\joaom\OneDrive\Área de Trabalho\CeOPP\TipoGenerico\TipoGenerico\obj\Debug\net7.0\TipoGenerico.genruntimeconfig.cache
+C:\Users\joaom\OneDrive\Área de Trabalho\CeOPP\TipoGenerico\TipoGenerico\obj\Debug\net7.0\ref\TipoGenerico.dll
